@@ -5,10 +5,10 @@
 
 💻 I am a **Data Scientist** specialized in **GeoAI** (Geospatial Artificial Intelligence) and **Machine Learning**.  
 📚 I hold a **Master's degree in Mathematical Sciences (Big Data specialization)** from the **African Institute for Mathematical Sciences (AIMS)**.  
-📚 I hold a **Master's degree in Applied Mathematics (Mechanics and Energetics)** from the **Félix Houphouet Boigny University of Abidjan**. 
-📚 I hold a **Bachelor's degree in Applied Mathematics (Mechanics and Energetics)** from the **Félix Houphouet Boigny University of Abidjan**. 
-📚 Experienced in **Remote Sensing**, **Earth Observation**, and **Satellite Imagery Analysis** using **Sentinel-2**, **Landsat**, and **HLS** data. 
-📝 I have a strong interest in **Data Science and Artificial Intelligence**. 
+📚 I hold a **Master's degree in Applied Mathematics (Mechanics and Energetics)** from the **Félix Houphouet Boigny University of Abidjan**.  
+📚 I hold a **Bachelor's degree in Applied Mathematics (Mechanics and Energetics)** from the **Félix Houphouet Boigny University of Abidjan**.  
+📚 Experienced in **Remote Sensing**, **Earth Observation**, and **Satellite Imagery Analysis** using **Sentinel-2**, **Landsat**, and **HLS** data.  
+📝 I have a strong interest in **Data Science and Artificial Intelligence**.  
 🔭 Projects: **Crop Monitoring**, **Biomass Prediction**, and **Deforestation Detection**.  
 🌱 Currently growing my expertise in **Deep Learning**, **Model Deployment (Streamlit, Cloud)**, and **GeoAI applications in Agriculture, Climate, and Environment**.  
 🚀 Main languages and tools: **Python**, **SQL**, **Power BI**, **Google Earth Engine**, **geemap**, **rasterio**, **scikit-learn**, **XGBoost**, **Optuna**.  
